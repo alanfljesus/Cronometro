@@ -8,7 +8,7 @@
   
 ### 
 
-<a target="_blank" href="https://cronometr0.netlify.app/">LINK Calculadora</a>
+<a target="_blank" href="https://cronometr0.netlify.app/">LINK Cronometro</a>
 
 <div>
  <img align="center" title="Calculadora" alt="Calculadora" src="https://i.imgur.com/gFKnI1P.png">
